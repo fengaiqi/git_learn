@@ -4,3 +4,6 @@ git push origin master (git psm)
 
 git pull origin master (git plm)
 git status -s
+git pull --rebase origin master
+git relog
+git reset --hard be20425
